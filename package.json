@@ -1,0 +1,16 @@
+{
+  "name": "arviis.-token-generator",
+  "version": "9.9.9",
+  "description": "arviis.'in Token Gen botu.",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js",
+    "arvis:dev": "nodemon arvis.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
